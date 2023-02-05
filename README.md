@@ -43,7 +43,7 @@ The API will be available at `http://localhost:3000/api/quote`
 
 * **Jay Lee** - *Initial work* - [777Jaylee777](https://github.com/777Jaylee777)
 
-## License
+## Licence
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/777Jaylee7777/quote-api/blob/master/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENCE.md](https://github.com/777Jaylee7777/quote-api/blob/master/LICENCE.md) file for details.
 
