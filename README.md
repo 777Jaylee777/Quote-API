@@ -33,7 +33,7 @@ Start the API by running the following command:
 $ node server.js
 
 
-The API will be available at `http://localhost:3000/api/quote`
+The API will be available at `http://localhost:4001`
 
 ## Built With
 
