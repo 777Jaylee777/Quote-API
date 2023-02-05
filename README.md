@@ -45,5 +45,5 @@ The API will be available at `http://localhost:3000/api/quote`
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/777Jaylee7777/quote-api/blob/master/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/777Jaylee777/Quote-API/blob/master/LICENSE.md) file for details.
 
